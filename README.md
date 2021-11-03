@@ -8,6 +8,7 @@
 - 💞️ I’m looking forward to collaborate with others.
 - 📫 How to reach me:
 - 📧 Email id : dharikanwar4@gmail.com
+- 📱 Discord : Dharik Anwar#1442
 
 <!---
 Dharik-Anwar/Dharik-Anwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
